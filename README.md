@@ -1,4 +1,4 @@
-📧 Real-time SMS & Email Spam Detector
+
 A Machine Learning-powered application built with Streamlit, designed to classify SMS and Email messages as Spam or Safe in real time. The app provides a confidence score and features a modern AI dashboard UI with animated alerts.
 
 🚀 Features
@@ -43,9 +43,7 @@ Animated UI alerts provide instant feedback
 
 📦 Installation
 bash
-# Clone the repository
-git clone https://github.com/yourusername/spam-detector.git
-cd spam-detector
+
 
 # Install dependencies
 pip install -r requirements.txt
